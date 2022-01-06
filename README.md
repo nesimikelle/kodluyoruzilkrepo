@@ -2,6 +2,7 @@
 
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor
 
+![Proje Gorseli](https://github.com/nesimikelle/kodluyoruzilkrepo/blob/main/img.png)
 
 # Installation
 
